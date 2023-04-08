@@ -12,5 +12,5 @@ The framework source code can be found here: [cakephp/cakephp](https://github.co
 
 1. Download [Composer](https://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
 2. Clone this repo
-3. Run `php composer install`. This should automatically install the files required.
+3. Run `composer install`. This should automatically install the files required.
 4. Have apache2 or nginx map to api/webroot so that you can access the api
